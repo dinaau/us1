@@ -1,6 +1,6 @@
 {
-    "name": "IF-XTW",
-    "description": "IF-XTW",
+    "name": "us1",
+    "description": "us1",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
